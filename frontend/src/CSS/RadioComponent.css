@@ -1,0 +1,37 @@
+.form-check-label {
+    display: flex;
+    align-items: center; 
+    padding: 10px 15px;
+    font-size: 18px;
+    border: 2px solid rgb(10,10,10);
+    margin: 10px;
+    cursor: pointer;
+}
+
+.text {
+    margin-left: 10px;
+    align-items: center;
+    font-size: 17px;
+}
+
+.form-check-label.active {
+    background-color: rgb(10,10,10);
+    font-weight: 600;
+    user-select: none;
+    color: white;
+    cursor: pointer;
+}
+
+.form-check-label.inactive {
+    user-select: none;
+    cursor: pointer;
+    
+}
+
+.form-check-label.inactive:hover {
+    background-color: rgb(10,10,10);
+    font-weight: 600;
+    user-select: none;
+    color: white;
+    cursor: pointer;
+}

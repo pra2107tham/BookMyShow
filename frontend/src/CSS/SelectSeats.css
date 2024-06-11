@@ -1,0 +1,14 @@
+.SS_wrapper {
+    text-align: center;
+}
+
+.SS_heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.SS_main_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

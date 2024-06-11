@@ -1,0 +1,16 @@
+
+
+.TS_heading {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    width: 100%;
+}
+
+.TS_main_container {
+    display: flex;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    color: black;
+}
